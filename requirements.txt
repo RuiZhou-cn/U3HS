@@ -1,0 +1,2 @@
+scikit-learn
+git+https://github.com/cocodataset/panopticapi.git
