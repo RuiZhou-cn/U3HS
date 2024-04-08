@@ -19,7 +19,7 @@ See [Preparing Datasets for U3HS](datasets/README.md).
 
 See [Getting Started with U3HS](docs/GETTING_STARTED.md).
 
-## Model Zoo (Detectron2)
+## Results
 ### Cityscapes panoptic segmentation
 <table>
 <thead>
@@ -43,8 +43,21 @@ See [Getting Started with U3HS](docs/GETTING_STARTED.md).
   </tr>
 </thead>
 <tbody>
+  </tr>
+    <tr>
+    <td>U3HS-Paper</td>
+    <td>7.94</td>
+    <td>12.37</td>
+    <td>64.24</td>
+    <td>41.21</td>
+    <td>51.67</td>
+    <td>79.77</td>
+    <td>46.53</td>
+    <td>58.99</td>
+    <td>78.87</td>
+  
   <tr>
-    <td>U3HS</td>
+    <td>U3HS-Reimplemented</td>
     <td>10.000</td>
     <td>14.676</td>
     <td>68.141</td>
@@ -55,7 +68,7 @@ See [Getting Started with U3HS](docs/GETTING_STARTED.md).
     <td>62.387</td>
     <td>76.973</td>
     <td><a href="https://drive.google.com/file/d/1-4gyFUEK3xHzy_-F_q-jT7xahwX8yl-L/view?usp=share_link">model</a></td>
-  </tr>
+    </tr>
 </tbody>
 </table>
 
