@@ -24,7 +24,7 @@ All numbers were obtained on 2 NVIDIA A40 GPUS
 <th valign="bottom">download</th>
 <!-- TABLE BODY -->
 <!-- ROW: u3hs_R_52_90k_bs16_crop_512_1024 -->
- <tr><td align="left"><a href="../configs/Cityscapes-PanopticSegmentation/u3hs_R_52_90k_bs16_crop_512_1024.yaml.yaml">U3HS-reimplemented</a></td>
+ <tr><td align="left"><a href="../configs/Cityscapes-PanopticSegmentation/u3hs_R_52_90k_bs16_crop_512_1024.yaml">U3HS-reimplemented</a></td>
 <td align="center">R50</td>
 <td align="center">90k</td>
 <td align="center">40.671</td>
