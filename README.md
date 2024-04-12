@@ -57,7 +57,7 @@ See [Getting Started with U3HS](docs/GETTING_STARTED.md).
     <td>78.87</td>
   
   <tr>
-    <td>U3HS-Reimplemented</td>
+    <tr><td align="left"><a href="../configs/Cityscapes-PanopticSegmentation/u3hs_R_52_90k_bs16_crop_512_1024.yaml.yaml">U3HS-reimplemented</a></td>
     <td>10.000</td>
     <td>14.676</td>
     <td>68.141</td>
@@ -67,7 +67,7 @@ See [Getting Started with U3HS](docs/GETTING_STARTED.md).
     <td>49.489</td>
     <td>62.387</td>
     <td>76.973</td>
-    <td><a href="https://drive.google.com/file/d/1-4gyFUEK3xHzy_-F_q-jT7xahwX8yl-L/view?usp=share_link">model</a></td>
+    <td align="center"><a href="https://drive.google.com/file/d/1-4gyFUEK3xHzy_-F_q-jT7xahwX8yl-L/view?usp=share_link">model</a>&nbsp;|&nbsp;<a href="https://drive.google.com/file/d/1-CeG1Sl56EEzcPFoE95hgRExSgNemAqb/view?usp=sharing">metrics</a></td>
     </tr>
 </tbody>
 </table>

@@ -27,7 +27,7 @@ to understand its behavior. Some common arguments are:
 
 ## Training & Evaluation in Command Line
 
-To train a model with 8 GPUs run:
+To train a model with 2 GPUs run:
 ```bash
 python ./train_net.py --config-file configs/Cityscapes-PanopticSegmentation/u3hs_R_52_90k_bs16_crop_512_1024.yaml --num-gpus 2
 ```
