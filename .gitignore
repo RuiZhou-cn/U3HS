@@ -49,3 +49,4 @@ _darcs
 .DS_Store
 /projects/u3hs/output_img/
 /projects/u3hs/test_img/
+*.png

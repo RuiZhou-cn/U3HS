@@ -7,6 +7,9 @@ import time
 import cv2
 import tqdm
 
+import sys
+sys.path.insert(1, os.path.join(sys.path[0], '..'))
+
 from detectron2.config import get_cfg
 from detectron2.data.detection_utils import read_image
 from detectron2.utils.logger import setup_logger
@@ -46,6 +49,7 @@ def get_parser():
         nargs="+",
         help="A list of space separated input images; "
              "or a single glob pattern such as 'directory/*.jpg'",
+        default=[]
     )
     parser.add_argument(
         "--output",

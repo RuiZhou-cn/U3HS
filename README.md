@@ -55,7 +55,7 @@ See [Getting Started with U3HS](docs/GETTING_STARTED.md).
     <td>46.53</td>
     <td>58.99</td>
     <td>78.87</td>
-  
+    <td></td>
   <tr>
     <tr><td align="left"><a href="/configs/Cityscapes-PanopticSegmentation/u3hs_R_52_90k_bs16_crop_512_1024.yaml">U3HS-reimplemented</a></td>
     <td>10.000</td>
